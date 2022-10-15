@@ -17,7 +17,7 @@ readline.question('Please enter a number: ' , function (num){
         
         
     } else {
-        console.log("invalid number")
+        console.log("Please try again")
     }
     
     readline.close();
